@@ -1,6 +1,5 @@
 const config = require('./config.json');
 const Discord = require('discord.js');
-const mongo = require('mongodb');
 const fs = require('node:fs');
 const path = require('node:path');
 
